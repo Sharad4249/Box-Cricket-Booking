@@ -1,0 +1,106 @@
+name: box_cricket
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: 1.0.8
+
+  # Firebase
+  firebase_core: ^4.0.0
+  cloud_firestore:
+  firebase_auth: ^6.0.1
+  firebase_storage: ^13.0.0
+
+  # Local database
+  shared_preferences: 2.3.2
+  sqflite: 2.3.3+1
+
+  # UI
+  clay_containers: 0.3.4
+  google_fonts: 6.2.1
+
+  # State management
+  get: 4.6.6
+  get_it: 8.0.0
+  json_annotation: 4.9.0
+
+  # Logger
+  logger: 2.4.0
+
+  # Image
+  cached_network_image: 3.4.1
+  flutter_svg: 2.0.10+1
+  image_picker: 1.1.2
+  photo_view: 0.15.0
+
+  # Loading animation
+  loading_animation_widget: 1.2.1
+  shimmer: 3.0.0
+
+  # Internet connection
+  internet_connection_checker: 1.0.0+1
+  connectivity_plus: 6.0.5
+
+  # Package info
+  package_info_plus: 8.0.2
+
+  # Country code
+  country_code_picker: 3.0.0
+
+  # Pin input
+  pinput: 5.0.0
+
+  # Poster view
+  carousel_slider: 5.0.0
+
+  # Permission
+  permission_handler: 11.3.1
+  path_provider: 2.1.4
+  lottie: 3.1.2
+
+  # Calendar
+  easy_date_timeline: 1.1.3
+
+  # Date Time
+  intl: 0.19.0
+
+  # Razorpay
+  razorpay_flutter: 1.3.7
+
+  # Downloader
+  http: 1.2.2
+  url_launcher: 6.3.0
+
+  # Location
+  geolocator: 13.0.1
+
+  # Toast
+  toastification: 2.3.0
+  file_picker: 8.1.2
+  url_strategy: 0.3.0
+  image: 4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: 5.0.0
+  
+  # json serialization :
+  build_runner: 2.4.12
+  json_serializable: 6.8.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/

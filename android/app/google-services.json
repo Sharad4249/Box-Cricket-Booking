@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082041922111",
+    "project_id": "boxcricket-3fba1",
+    "storage_bucket": "boxcricket-3fba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082041922111:android:de57d4b9f7d6e608dd7e8a",
+        "android_client_info": {
+          "package_name": "com.box.cricket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMDwechjWWxWQ695E8TzgBVFPMl4wgWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
