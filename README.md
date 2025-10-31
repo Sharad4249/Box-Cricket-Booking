@@ -83,3 +83,12 @@ The application follows a **Mobile-Cloud (Serverless)** architecture:
 
 ## 🧱 Project Structure
 
+<img width="1536" height="1024" alt="ChatGPT Image Oct 31, 2025, 12_52_22 AM" src="https://github.com/user-attachments/assets/4134c7cc-8b39-4976-815d-3db466eb3c6f" />
+
+## 👨‍💻 Contributors
+- **Sharad Savaliya** 
+- **Herry Rojivadiya** 
+
+
+
+
